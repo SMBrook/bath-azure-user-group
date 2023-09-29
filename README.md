@@ -1,3 +1,6 @@
+![Alt text](/img/logo.jpg "Bath User Group Logo")
+
+
 Bath Azure User Group
 
-Repository of content delivered in Bath Azure User Groups
+Repository for content delivered in Bath Azure User Groups
